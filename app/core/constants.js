@@ -72,7 +72,8 @@ export const TOKENS_TEST = {
 // MainNet
 export const TOKENS = {
   DBC: 'b951ecbbc5fe37a9c280a76cb0ce0014827294cf',
-  RPX: 'ecc6b20d3ccac1ee9ef109af5a7cdb85706b1df9'
+  RPX: 'ecc6b20d3ccac1ee9ef109af5a7cdb85706b1df9',
+  QLC: '0d821bd7b6d53f5c2b40e217c6defc8bbe896cf5'
 }
 
 export const DEFAULT_WALLET = {
